@@ -9,9 +9,12 @@ nav {
     background: rgba(0, 0, 0, 0.2);
     color: white;
     height: 100px;
+    width: 100%;
     display: block;
     padding-right: 5vw;
     padding-left: 2vw;
+    position: fixed;
+    top: 0;
 }
 
 nav .homelink {
@@ -38,4 +41,14 @@ h1 {
     text-align: center;
     font-size: 60px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 115px;
+}
+p {
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    text-wrap: balance;
+    padding: 15px;
 }
