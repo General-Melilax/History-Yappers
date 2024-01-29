@@ -1,0 +1,7 @@
+main .question {
+    margin: auto;
+    padding-top: 50px;
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
